@@ -13,7 +13,7 @@ print("""
                                                                                       Coded By Emyounoone                    """)
 
 mail = str(input("\n\n\n\nHedef G-Mail : "))
-print("Brute Force Saldırısı İçin Hedef:"+mail)
+print("Hedef Belirlendi:"+mail)
 smtp = smtplib.SMTP("smtp.gmail.com", 587)
 smtp.ehlo()
 smtp.starttls()
