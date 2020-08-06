@@ -1,0 +1,5 @@
+1- Gmail i açıp posta kutunuza girin. Size gelmiş bir epostayı açın ve mailinde içinde ve üst sağ tarafında diğer seçeneklere tıklayın. Buraya tıkladığınızda bir çok seçenek çıkacak.
+
+2- Bu seçeneklerde orjinali göster seçeneğine tıklayın. Böylece o mailin geldiği e-posta ile ilgili tüm bilgiler karşınıza çıkacaktır.
+
+3- Buradaki satırlarda Message-ID yi bulun ve bunun hemen alt satırındaki Received satırının altındaki X-Originating-IP deki yazan IP adresi, size maili yollayanın IP adresidir.
